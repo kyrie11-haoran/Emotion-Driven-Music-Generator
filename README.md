@@ -1,4 +1,4 @@
-# Emotion-Driven Music Generator 🎵🎭
+# Catharsis : Emotion-Driven Music Generator 🎵🎭
 
 An interactive pipeline that transforms natural language input into original music. We classify emotion from text using state-of-the-art NLP models, map the emotion scores into a structured music prompt, and generate 32 kHz audio with MusicGen (Hugging Face) — focusing on integration and fine-tuning rather than training from scratch.
 
