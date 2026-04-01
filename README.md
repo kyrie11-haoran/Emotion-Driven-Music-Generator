@@ -15,10 +15,11 @@ Emotion-Driven-Music-Generator/
 ├── multilingual_audio anaylsis_richer emotion-to-music project.ipynb  # Multilingual speech/text → emotion → music
 ├── ABC_notes_gen_LLM.ipynb                                        # GPT-style transformer trained from scratch on ABC music notation
 │
-├── FinalPresentation.pdf
-├── Technical Topic Presentation.pdf
+├── Final Presentation.pdf
+├── Technical Topic Presentation (FAD).pdf
 ├── Project Preview Presentation.pdf
-└── Project plan presentation.pdf
+├── Project Plan presentation.pdf
+└── Discarded Technical Topic PPT (CLIP).pdf
 ```
 
 ---
